@@ -6,3 +6,5 @@ print("Hello, World from Python!")
 
 print("Hello Python! it was great connecting with you ")
 
+result = 40 + 20
+print(f"40 + 20 = {result}")
