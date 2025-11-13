@@ -26,3 +26,5 @@ result = 40 - 20
 print(f"40 - 20 = {result}")
 
 print("I am learning Python on WSL2!")
+
+print("Thank you for running my program!")
