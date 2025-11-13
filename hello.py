@@ -20,3 +20,7 @@ print(f"I am {age} years old")
 
 name = "Radha"
 print(f"My name is {name}")
+
+
+result = 40 - 20
+print(f"40 - 20 = {result}")
