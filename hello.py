@@ -14,3 +14,6 @@ for i in range(1, 4):
 
 hobbies = ["Painting", "reading", "gaming"]
 print(f"My hobbies: {hobbies}")
+
+age = 27
+print(f"I am {age} years old")
