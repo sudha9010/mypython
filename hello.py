@@ -24,3 +24,5 @@ print(f"My name is {name}")
 
 result = 40 - 20
 print(f"40 - 20 = {result}")
+
+print("I am learning Python on WSL2!")
