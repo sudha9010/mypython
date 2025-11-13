@@ -17,3 +17,6 @@ print(f"My hobbies: {hobbies}")
 
 age = 27
 print(f"I am {age} years old")
+
+name = "Radha"
+print(f"My name is {name}")
