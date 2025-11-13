@@ -8,3 +8,6 @@ print("Hello Python! it was great connecting with you ")
 
 result = 40 + 20
 print(f"40 + 20 = {result}")
+
+for i in range(1, 4):
+    print(f"Count: {i}")
